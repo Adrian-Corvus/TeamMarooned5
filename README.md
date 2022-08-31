@@ -1,5 +1,5 @@
 # TeamMarooned5
-NASA space app challenge 2021 
+NASA International Space Apps Challenge 2021 
 
 
 We intend to make an interactive educational game modeled after seven minutes of Terror during Martian approach. We aim to make the game as educational as possible by adding in real life information from different landing missions. Our primary goal is to have  the player follow through all the important stages of approach and descent while simulating just a fraction of the high stakes poker game that takes place during real world missions.
